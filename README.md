@@ -9,7 +9,7 @@ This Project Needs an Environment Variable to Run
 - before running this project run below Command.
 
 ```python3
-pip install python-dotenv
+pip install -r requirements.txt
 ```
 
 And Lastly You Can Run The main.py file
